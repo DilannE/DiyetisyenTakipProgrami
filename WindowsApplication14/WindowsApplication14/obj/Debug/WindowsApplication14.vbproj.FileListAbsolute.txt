@@ -1,0 +1,83 @@
+C:\Users\gamze95\Desktop\sayısal\WindowsApplication14\WindowsApplication14\bin\Debug\WindowsApplication14.exe.config
+C:\Users\gamze95\Desktop\sayısal\WindowsApplication14\WindowsApplication14\bin\Debug\WindowsApplication14.exe
+C:\Users\gamze95\Desktop\sayısal\WindowsApplication14\WindowsApplication14\bin\Debug\WindowsApplication14.pdb
+C:\Users\gamze95\Desktop\sayısal\WindowsApplication14\WindowsApplication14\bin\Debug\WindowsApplication14.xml
+C:\Users\gamze95\Desktop\sayısal\WindowsApplication14\WindowsApplication14\obj\Debug\WindowsApplication14.vbprojResolveAssemblyReference.cache
+C:\Users\gamze95\Desktop\sayısal\WindowsApplication14\WindowsApplication14\obj\Debug\WindowsApplication14.Form1.resources
+C:\Users\gamze95\Desktop\sayısal\WindowsApplication14\WindowsApplication14\obj\Debug\WindowsApplication14.Resources.resources
+C:\Users\gamze95\Desktop\sayısal\WindowsApplication14\WindowsApplication14\obj\Debug\WindowsApplication14.vbproj.GenerateResource.Cache
+C:\Users\gamze95\Desktop\sayısal\WindowsApplication14\WindowsApplication14\obj\Debug\WindowsApplication14.exe
+C:\Users\gamze95\Desktop\sayısal\WindowsApplication14\WindowsApplication14\obj\Debug\WindowsApplication14.xml
+C:\Users\gamze95\Desktop\sayısal\WindowsApplication14\WindowsApplication14\obj\Debug\WindowsApplication14.pdb
+C:\Users\gamze95\Desktop\sayısal\WindowsApplication14\WindowsApplication14\obj\Debug\WindowsApplication14.Form2.resources
+C:\Users\gamze95\Desktop\sayısal\WindowsApplication14\WindowsApplication14\obj\Debug\WindowsApplication14.Form3.resources
+C:\Users\gamze95\Desktop\sayısal\WindowsApplication14\WindowsApplication14\obj\Debug\WindowsApplication14.Form4.resources
+C:\Users\gamze95\Desktop\sayısal\WindowsApplication14\WindowsApplication14\obj\Debug\WindowsApplication14.Besin_Raporu.resources
+C:\Users\gamze95\Desktop\sayısal\WindowsApplication14\WindowsApplication14\obj\Debug\WindowsApplication14.spor_raporu.resources
+C:\Users\gamze95\Desktop\sayısal\WindowsApplication14\WindowsApplication14\obj\Debug\WindowsApplication14.Besin_Goruntule.resources
+C:\Users\gamze95\Desktop\sayısal\WindowsApplication14\WindowsApplication14\obj\Debug\WindowsApplication14.Spor_Görüntüle.resources
+C:\Users\gamze95\Desktop\sayısal\WindowsApplication14\WindowsApplication14\obj\Debug\WindowsApplication14.Kullanici_Listesi.resources
+C:\Users\gamze95\Desktop\sayısal\WindowsApplication14\WindowsApplication14\obj\Debug\WindowsApplication14.Kullanıcı_Besin.resources
+C:\Users\Ali\Desktop\diyetisyen takip\WindowsApplication14\WindowsApplication14\bin\Debug\WindowsApplication14.exe.config
+C:\Users\Ali\Desktop\diyetisyen takip\WindowsApplication14\WindowsApplication14\obj\Debug\WindowsApplication14.exe
+C:\Users\Ali\Desktop\diyetisyen takip\WindowsApplication14\WindowsApplication14\obj\Debug\WindowsApplication14.xml
+C:\Users\Ali\Desktop\diyetisyen takip\WindowsApplication14\WindowsApplication14\obj\Debug\WindowsApplication14.pdb
+C:\Users\Ali\Desktop\diyetisyen takip\WindowsApplication14\WindowsApplication14\obj\Debug\WindowsApplication14.vbprojResolveAssemblyReference.cache
+C:\Users\Ali\Desktop\diyetisyen takip\WindowsApplication14\WindowsApplication14\obj\Debug\WindowsApplication14.Form1.resources
+C:\Users\Ali\Desktop\diyetisyen takip\WindowsApplication14\WindowsApplication14\obj\Debug\WindowsApplication14.Form3.resources
+C:\Users\Ali\Desktop\diyetisyen takip\WindowsApplication14\WindowsApplication14\obj\Debug\WindowsApplication14.Resources.resources
+C:\Users\Ali\Desktop\diyetisyen takip\WindowsApplication14\WindowsApplication14\obj\Debug\WindowsApplication14.Form4.resources
+C:\Users\Ali\Desktop\diyetisyen takip\WindowsApplication14\WindowsApplication14\obj\Debug\WindowsApplication14.vbproj.GenerateResource.Cache
+C:\Users\Ali\Desktop\diyetisyen takip\WindowsApplication14\WindowsApplication14\obj\Debug\WindowsApplication14.FrmKayitEkle.resources
+C:\Users\Ali\Desktop\diyetisyen takip\WindowsApplication14\WindowsApplication14\bin\Debug\WindowsApplication14.exe
+C:\Users\Ali\Desktop\diyetisyen takip\WindowsApplication14\WindowsApplication14\bin\Debug\WindowsApplication14.pdb
+C:\Users\Ali\Desktop\diyetisyen takip\WindowsApplication14\WindowsApplication14\bin\Debug\WindowsApplication14.xml
+C:\Users\Ali\Desktop\diyetisyen takip\WindowsApplication14\WindowsApplication14\obj\Debug\WindowsApplication14.DiyetisyenBesinSecimi.resources
+C:\Users\Ali\Desktop\diyetisyen takip\WindowsApplication14\WindowsApplication14\obj\Debug\WindowsApplication14.SuSayaci.resources
+C:\Users\gamze95\Desktop\WindowsApplication14\WindowsApplication14\bin\Debug\WindowsApplication14.exe.config
+C:\Users\gamze95\Desktop\WindowsApplication14\WindowsApplication14\obj\Debug\WindowsApplication14.exe
+C:\Users\gamze95\Desktop\WindowsApplication14\WindowsApplication14\obj\Debug\WindowsApplication14.xml
+C:\Users\gamze95\Desktop\WindowsApplication14\WindowsApplication14\obj\Debug\WindowsApplication14.pdb
+C:\Users\gamze95\Desktop\WindowsApplication14\WindowsApplication14\bin\Debug\WindowsApplication14.exe
+C:\Users\gamze95\Desktop\WindowsApplication14\WindowsApplication14\bin\Debug\WindowsApplication14.pdb
+C:\Users\gamze95\Desktop\WindowsApplication14\WindowsApplication14\bin\Debug\WindowsApplication14.xml
+C:\Users\gamze95\Desktop\WindowsApplication14\WindowsApplication14\obj\Debug\WindowsApplication14.vbprojResolveAssemblyReference.cache
+C:\Users\gamze95\Desktop\WindowsApplication14\WindowsApplication14\obj\Debug\WindowsApplication14.Form1.resources
+C:\Users\gamze95\Desktop\WindowsApplication14\WindowsApplication14\obj\Debug\WindowsApplication14.FrmKayitEkle.resources
+C:\Users\gamze95\Desktop\WindowsApplication14\WindowsApplication14\obj\Debug\WindowsApplication14.Form3.resources
+C:\Users\gamze95\Desktop\WindowsApplication14\WindowsApplication14\obj\Debug\WindowsApplication14.Resources.resources
+C:\Users\gamze95\Desktop\WindowsApplication14\WindowsApplication14\obj\Debug\WindowsApplication14.DiyetisyenBesinSecimi.resources
+C:\Users\gamze95\Desktop\WindowsApplication14\WindowsApplication14\obj\Debug\WindowsApplication14.Form4.resources
+C:\Users\gamze95\Desktop\WindowsApplication14\WindowsApplication14\obj\Debug\WindowsApplication14.SuSayaci.resources
+C:\Users\gamze95\Desktop\WindowsApplication14\WindowsApplication14\obj\Debug\WindowsApplication14.vbproj.GenerateResource.Cache
+C:\Users\gamze95\Desktop\proje\WindowsApplication14\WindowsApplication14\bin\Debug\WindowsApplication14.exe.config
+C:\Users\gamze95\Desktop\proje\WindowsApplication14\WindowsApplication14\obj\Debug\WindowsApplication14.exe
+C:\Users\gamze95\Desktop\proje\WindowsApplication14\WindowsApplication14\obj\Debug\WindowsApplication14.xml
+C:\Users\gamze95\Desktop\proje\WindowsApplication14\WindowsApplication14\obj\Debug\WindowsApplication14.pdb
+C:\Users\gamze95\Desktop\proje\WindowsApplication14\WindowsApplication14\bin\Debug\WindowsApplication14.exe
+C:\Users\gamze95\Desktop\proje\WindowsApplication14\WindowsApplication14\bin\Debug\WindowsApplication14.pdb
+C:\Users\gamze95\Desktop\proje\WindowsApplication14\WindowsApplication14\bin\Debug\WindowsApplication14.xml
+C:\Users\gamze95\Desktop\proje\WindowsApplication14\WindowsApplication14\obj\Debug\WindowsApplication14.vbprojResolveAssemblyReference.cache
+C:\Users\gamze95\Desktop\proje\WindowsApplication14\WindowsApplication14\obj\Debug\WindowsApplication14.Form1.resources
+C:\Users\gamze95\Desktop\proje\WindowsApplication14\WindowsApplication14\obj\Debug\WindowsApplication14.FrmKayitEkle.resources
+C:\Users\gamze95\Desktop\proje\WindowsApplication14\WindowsApplication14\obj\Debug\WindowsApplication14.Form3.resources
+C:\Users\gamze95\Desktop\proje\WindowsApplication14\WindowsApplication14\obj\Debug\WindowsApplication14.Resources.resources
+C:\Users\gamze95\Desktop\proje\WindowsApplication14\WindowsApplication14\obj\Debug\WindowsApplication14.DiyetisyenBesinSecimi.resources
+C:\Users\gamze95\Desktop\proje\WindowsApplication14\WindowsApplication14\obj\Debug\WindowsApplication14.Form4.resources
+C:\Users\gamze95\Desktop\proje\WindowsApplication14\WindowsApplication14\obj\Debug\WindowsApplication14.SuSayaci.resources
+C:\Users\gamze95\Desktop\proje\WindowsApplication14\WindowsApplication14\obj\Debug\WindowsApplication14.vbproj.GenerateResource.Cache
+C:\Users\gamze95\Desktop\Diyetisyen Takip Projesi\deneme\WindowsApplication14\WindowsApplication14\bin\Debug\WindowsApplication14.exe.config
+C:\Users\gamze95\Desktop\Diyetisyen Takip Projesi\deneme\WindowsApplication14\WindowsApplication14\obj\Debug\WindowsApplication14.exe
+C:\Users\gamze95\Desktop\Diyetisyen Takip Projesi\deneme\WindowsApplication14\WindowsApplication14\obj\Debug\WindowsApplication14.xml
+C:\Users\gamze95\Desktop\Diyetisyen Takip Projesi\deneme\WindowsApplication14\WindowsApplication14\obj\Debug\WindowsApplication14.pdb
+C:\Users\gamze95\Desktop\Diyetisyen Takip Projesi\deneme\WindowsApplication14\WindowsApplication14\obj\Debug\WindowsApplication14.vbprojResolveAssemblyReference.cache
+C:\Users\gamze95\Desktop\Diyetisyen Takip Projesi\deneme\WindowsApplication14\WindowsApplication14\obj\Debug\WindowsApplication14.Form1.resources
+C:\Users\gamze95\Desktop\Diyetisyen Takip Projesi\deneme\WindowsApplication14\WindowsApplication14\obj\Debug\WindowsApplication14.FrmKayitEkle.resources
+C:\Users\gamze95\Desktop\Diyetisyen Takip Projesi\deneme\WindowsApplication14\WindowsApplication14\obj\Debug\WindowsApplication14.Form3.resources
+C:\Users\gamze95\Desktop\Diyetisyen Takip Projesi\deneme\WindowsApplication14\WindowsApplication14\obj\Debug\WindowsApplication14.DiyetisyenBesinSecimi.resources
+C:\Users\gamze95\Desktop\Diyetisyen Takip Projesi\deneme\WindowsApplication14\WindowsApplication14\obj\Debug\WindowsApplication14.Form4.resources
+C:\Users\gamze95\Desktop\Diyetisyen Takip Projesi\deneme\WindowsApplication14\WindowsApplication14\obj\Debug\WindowsApplication14.vbproj.GenerateResource.Cache
+C:\Users\gamze95\Desktop\Diyetisyen Takip Projesi\deneme\WindowsApplication14\WindowsApplication14\obj\Debug\WindowsApplication14.Resources.resources
+C:\Users\gamze95\Desktop\Diyetisyen Takip Projesi\deneme\WindowsApplication14\WindowsApplication14\bin\Debug\WindowsApplication14.exe
+C:\Users\gamze95\Desktop\Diyetisyen Takip Projesi\deneme\WindowsApplication14\WindowsApplication14\bin\Debug\WindowsApplication14.pdb
+C:\Users\gamze95\Desktop\Diyetisyen Takip Projesi\deneme\WindowsApplication14\WindowsApplication14\bin\Debug\WindowsApplication14.xml
